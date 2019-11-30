@@ -1,4 +1,4 @@
-module gitlab.commonbond.co/CB4B/go-gql-client
+module github.com/Mikhus/graphql
 
 go 1.13
 
